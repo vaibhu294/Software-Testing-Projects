@@ -1,2 +1,3 @@
 # Software-Testing-Projects
-There are different frameworks, testcase, etc related to projects which showcase my skills.
+This my Software testing Repository which contains Projects code framework and tescase files.
+Author:- Vaibhav Gaikwad
